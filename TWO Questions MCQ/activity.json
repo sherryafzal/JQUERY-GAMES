@@ -1,0 +1,39 @@
+{"quizlist":[
+  
+	{
+	"question": "The ITEM In the IMAGE is a  <img src = image1.jpeg id = 'images'> ",
+	"option1":"apple",
+	"option2":"peach."	
+	},
+	{
+	"question":"<img src = image2.png id='images'>this engine can be used to depict images and their answers, which can also be images.",
+	"option1":"<img src = image1.jpeg id ='images'>",
+	"option2":"this can be used to solve puzzles."
+	},
+	{
+	"question":"word games like ANAGRAMS, MCQs, logic::answer, jumble, guess the word and fill in the blanks are just a few examples of what you can do with this engine.",
+	"option1":"no ROM",
+	"option2":"moo RN"	
+	},
+	{
+	"question":"again images that fit images, like puzzles are an awesome way to use this engine.",
+	"option1":"Celle next",
+	"option2":"encl telex"
+},
+{
+"question":"<img src = image1.jpeg id = 'images'>MATCH THE IMAGE",
+	"option1":"<img src = image1.jpeg id = 'images'>",
+	"option2":"<img src = image2.png width=50, height=45>"
+
+},
+{
+"question":"you can sculpt MANY games from this jquery ENGINE. ",
+	"option1":"it's fun.",
+	"option2":"it's boring."
+	
+}
+
+
+
+]
+}

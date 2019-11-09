@@ -1,0 +1,33 @@
+{"quizlist":[
+  
+	{
+	"question": "swipe LEFT",
+	"truth"	: "0"
+	},
+	{
+		"question": "swipe RIGHT",
+		"truth"	: "1"
+	},
+	{
+		"question": "swipe RIGHT",
+		"truth"	: "1"
+	},
+	{
+		"question": "swipe LEFT",
+		"truth"	: "0"
+},
+{
+	"question": "swipe LEFT",
+	"truth"	: "0"
+
+},
+{
+	"question": "swipe RIGHT",
+	"truth"	: "1"
+	
+}
+
+
+
+]
+}

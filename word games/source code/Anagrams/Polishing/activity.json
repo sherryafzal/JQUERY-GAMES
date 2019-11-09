@@ -1,0 +1,44 @@
+{"quizlist":[
+  
+	{
+	"question": "<img src = image1.jpeg width=100, height=80> The ITEM In the IMAGE is a ",
+	"option1":"apple",
+	"option2":"peach"
+	
+	},
+	{
+	"question":"<img src = image2.png width=100, height=80>this engine can be used to depict images and their answers, which can also be images.",
+	"option1":"<img src = image1.jpeg width=50, height=45>",
+	"option2":"this can be used to solve puzzles."
+
+	},
+	{
+	"question":"word games like ANAGRAMS, MCQs, logic::answer, jumble, guess the word and fill in the blanks are just a few examples of what you can do with this engine.",
+	"option1":"no ROM",
+	"option2":"moo RN",
+	"option3":"monro",
+	"option4":"monro"
+	},
+	{
+	"question":"again images that fit images, like puzzles are an awesome way to use this engine.",
+	"option1":"Celle next",
+	"option2":"encl telex",
+	"option3":"excel lent"
+},
+{
+"question":"<img src = image1.jpeg width=100, height=80>MATCH THE IMAGE",
+	"option1":"<img src = image1.jpeg width=50, height=45>",
+	"option2":"<img src = image2.png width=50, height=45>",
+	"option3":"Doti Is"
+},
+{
+"question":"you can sculpt MANY games from this jquery ENGINE. ",
+	"option1":"it's fun.",
+	"option2":"it's boring",
+	"option3":"i want that vase...."
+}
+
+
+
+]
+}
